@@ -1,0 +1,15 @@
+.filter0 {
+    -webkit-filter: url(#cvd_extension_0);
+    -moz-filter: url(#cvd_extension_0);
+    -ms-filter: url(#cvd_extension_0);
+    -o-filter: url(#cvd_extension_0);
+    filter: url(#cvd_extension_0)
+}
+
+.filter1 {
+    -webkit-filter: url(#cvd_extension_1);
+    -moz-filter: url(#cvd_extension_1);
+    -ms-filter: url(#cvd_extension_1);
+    -o-filter: url(#cvd_extension_1);
+    filter: url(#cvd_extension_1)
+}
